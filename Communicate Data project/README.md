@@ -17,7 +17,7 @@ This project attempts to identify similarities and differences among the United 
 This notebook loads the raw PISA CSV file data file into a sqlite database. It then transforms and loads a subset of PISA data columns for the United States, China, and Singapore countries into a new CSV file.
 
 ### PISA Data Part 2
-Separate Pandas DataFrames are created for creating the Univarate, Bivariate, and Multivariate visualizations of PISA data for the United State, China, and Singapore countries.
+Separate Pandas DataFrames are created for creating the Univarate, Bivariate, and Multivariate visualizations of PISA data for the United States, China, and Singapore countries.
 
 ## Summary of Findings
 
