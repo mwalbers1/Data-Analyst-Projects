@@ -1,2 +1,2 @@
-# DAND-Projects-wip
-DAND-Projects In Progress
+# DAND-Projects
+This repository contains projects from the Udacity Data Analyst Nanodegree course.
