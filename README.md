@@ -1,2 +1,2 @@
-# DAND-Projects
+# Data-Analyst-Projects
 This repository contains projects from the Udacity Data Analyst Nanodegree course.
