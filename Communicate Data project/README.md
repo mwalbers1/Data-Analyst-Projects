@@ -23,7 +23,11 @@ Separate Pandas DataFrames are created for creating the Univarate, Bivariate, an
 
 The two key findings are the number of hours 15-year old students spend outside of school studying and the number of math classes taken per week. The plots reveal that most students from China and Singapore spend between three and ten hours a week outside of school studying, while most students in the United States spend between one and five hours a week studying outside of school. The students in China and Singapore who study more than five hours per week show much higher math literacy scores than students in the United States.
 
+![](resources/student_study_time_outside_school.png)
+
 Most United States students take between one and five math classes per week while most China and Singapore students take at least five math classes per week. China and Singapore students who take five or more math classes per week score much higher on math literacy than students in the United States.
+
+![](resources/number_math_classes_per_week.png)
 
 ## Key Insights for Presentation
 
